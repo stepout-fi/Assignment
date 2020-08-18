@@ -1,4 +1,4 @@
-# Stepout Backend Intern Assignment
+# Stepout Intern Assignment
 
 You will have 14 days to complete your assignment. Please notify us when you are done with the tasks. Send an email to dev@stepout.fi when you are done or if you have any questions. Happy coding and good luck!
 
