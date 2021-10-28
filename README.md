@@ -1,4 +1,4 @@
-# Stepout Frontend Intern Assignment
+# StepOut Front-End Intern Assignment
 
 You will have 14 days to complete your assignment. Please notify us when you are done with the tasks. Send an email to us when you are done or if you have any questions. Happy coding and good luck!
 
